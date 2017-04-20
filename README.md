@@ -1,8 +1,8 @@
 # KudanAR GPSNodes
 
-This repository contains the KudanAR GPSNodes that were previously part of the KudanAR framework.
+This repository contains the KudanAR GPSNodes that were previously part of the KudanAR framework on iOS.
 
-These were tested again iOS 8+, however no warranty is offered for this code.
+These were tested against iOS 8+, however no warranty is offered for this code.
 
 You are welcome create a PR to fix any particular issues that you find.
 
